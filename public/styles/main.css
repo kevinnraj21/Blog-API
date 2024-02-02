@@ -1,4 +1,4 @@
-/* Reset some default browser styles */
+/* Reseting some default browser styles */
 body,
 h1,
 h2,
@@ -16,7 +16,7 @@ a {
 }
 
 body {
-  background-color: #f7f9fc;
+  background-color: cornflowerblue;
   color: #333;
   line-height: 1.6;
 }
@@ -24,7 +24,7 @@ body {
 .container {
   max-width: 800px;
   margin: 50px auto;
-  background-color: #fff;
+  background-color: #e0fafa;
   padding: 20px 40px;
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
